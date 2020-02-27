@@ -1,0 +1,33 @@
+module.exports = Object.freeze({
+  SEASONS: {
+    "1977": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1978": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1979": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1980": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1981": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1982": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1983": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1984": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1985": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1986": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1987": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1988": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1989": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1990": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1991": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1992": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1993": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1994": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1995": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1996": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1997": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1998": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "1999": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "2000": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "2001": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "2002": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "2003": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "2004": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]},
+    "2005": {SeasonStart: "19771018", SeasonEnd: "19780409", PlayoffStart: "", PlayoffEnd: "", Allstar: [""]}
+  }
+});
